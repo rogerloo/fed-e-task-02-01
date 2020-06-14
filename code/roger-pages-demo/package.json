@@ -1,0 +1,14 @@
+{
+  "name": "roger-pages-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "clean": "roger-pages clean",
+    "build": "roger-pages build",
+    "dev": "roger-pages dev"
+  },
+  "devDependencies": {
+    "roger-pages": "^0.2.0"
+  }
+}

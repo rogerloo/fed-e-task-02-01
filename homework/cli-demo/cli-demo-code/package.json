@@ -1,0 +1,12 @@
+{
+  "name": "generator-demo-code",
+  "version": "1.0.0",
+  "description": "使用yeoman完成的自用小型脚手架工具",
+  "main": "index.js",
+  "repository": "https://github.com/rogerloo/fed-e-task-02-01.git",
+  "author": "rogerloo",
+  "license": "MIT",
+  "devDependencies": {
+    "yeoman-generator": "^4.10.1"
+  }
+}

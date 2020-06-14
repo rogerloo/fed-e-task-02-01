@@ -1,0 +1,22 @@
+{
+    "name": "<%= projectName %>",
+    "version": "1.0.0",
+    "description": "<%= projectDes %>",
+    "repository": "",
+    "author": "",
+    "license": "MIT",
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint"
+    },
+    "dependencies": {
+        "vue": "^2.5.21",
+        "vue-router": "^3.0.1"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-babel": "^3.11.0",
+        "@vue/cli-service": "^3.11.0",
+        "vue-template-compiler": "^2.6.10"
+    }
+}
